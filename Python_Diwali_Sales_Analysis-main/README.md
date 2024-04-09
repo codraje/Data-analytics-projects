@@ -18,7 +18,7 @@ This project focuses on conducting exploratory data analysis (EDA) using Python,
 - **README.md**: Project overview, key components, and structure.
 
 ## Dependencies
-- Python 3.x
+- Python 3.8.16
 - NumPy
 - Pandas
 - Matplotlib
